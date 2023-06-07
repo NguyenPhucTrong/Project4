@@ -25,13 +25,13 @@
             android:id="@+id/btnPlay"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="Start" />
 
         <Button
             android:id="@+id/btnPause"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="Pause" />
 
         <Button
             android:id="@+id/btnStop"
